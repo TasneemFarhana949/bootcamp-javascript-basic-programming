@@ -1,1 +1,0 @@
-# bootcamp-javascript-basic-programming
